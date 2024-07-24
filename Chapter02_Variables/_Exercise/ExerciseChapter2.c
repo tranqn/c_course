@@ -1,13 +1,13 @@
 #include <stdio.h>
-#include <stdio.h>
+#include <stdint.h>
 
 int main()
 {
-    u_int64_t age;
-    u_int64_t days;
-    u_int64_t hours;
-    u_int64_t minutes;
-    u_int64_t seconds;
+    uint64_t age;
+    uint64_t days;
+    uint64_t hours;
+    uint64_t minutes;
+    uint64_t seconds;
 
     printf("Please enter your age in years: ");
     scanf("%llu/n", &age);
