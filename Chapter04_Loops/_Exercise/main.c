@@ -37,4 +37,6 @@ void print_board(int num_cols, int num_rows)
 int main()
 {
     print_board(6,6);
+
+    return 0;
 }
