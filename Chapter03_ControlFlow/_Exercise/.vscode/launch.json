@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/quocnamtran/Desktop/c_coding/c_course/Chapter03_ControlFlow/_Exercise",
+      "program": "/Users/quocnamtran/Desktop/c_coding/c_course/Chapter03_ControlFlow/_Exercise/build/Debug/outDebug"
+    }
+  ]
+}
